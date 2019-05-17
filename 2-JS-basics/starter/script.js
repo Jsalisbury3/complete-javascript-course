@@ -56,7 +56,7 @@ var familyTwoBills = [77,375,110,45]
 //do the tip calculations
 // output: 
 //array containing all tops
-// array with final paid amounts(bill+tip)
+// array with final paid amounts(bill+tip))
 
 
 // 77, 375, 110, 45
